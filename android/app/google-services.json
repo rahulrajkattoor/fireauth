@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060661389752",
+    "project_id": "fireauth-bd9f3",
+    "storage_bucket": "fireauth-bd9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060661389752:android:7bd9877417257b980d874d",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gHyqlKV_Wt1XUWND8wUwj4uZ_Jfi26I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
